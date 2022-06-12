@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0413F76B28555C1A0042DFA2 /* iconsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0413F76A28555C1A0042DFA2 /* iconsScreen.swift */; };
+		0413F76D285563850042DFA2 /* imageScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0413F76C285563850042DFA2 /* imageScreen.swift */; };
 		04143F2F284CDB2600E52124 /* TextScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04143F2E284CDB2600E52124 /* TextScreen.swift */; };
 		041C7C5C284C091000A04897 /* iosappApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041C7C5B284C091000A04897 /* iosappApp.swift */; };
 		041C7C5E284C091000A04897 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041C7C5D284C091000A04897 /* ContentView.swift */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0413F76A28555C1A0042DFA2 /* iconsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iconsScreen.swift; sourceTree = "<group>"; };
+		0413F76C285563850042DFA2 /* imageScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageScreen.swift; sourceTree = "<group>"; };
 		04143F2E284CDB2600E52124 /* TextScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextScreen.swift; sourceTree = "<group>"; };
 		041C7C58284C091000A04897 /* MrBrowny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MrBrowny.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		041C7C5B284C091000A04897 /* iosappApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosappApp.swift; sourceTree = "<group>"; };
@@ -65,6 +69,8 @@
 				046DA439284D399C0012BA05 /* shapesScreen.swift */,
 				046DA43B284D470D0012BA05 /* colorsScreen.swift */,
 				046DA43D284D6BB80012BA05 /* GradientScreen.swift */,
+				0413F76A28555C1A0042DFA2 /* iconsScreen.swift */,
+				0413F76C285563850042DFA2 /* imageScreen.swift */,
 				041C7C5F284C091200A04897 /* Assets.xcassets */,
 				041C7C61284C091200A04897 /* Preview Content */,
 			);
@@ -151,10 +157,12 @@
 			files = (
 				046DA43C284D470D0012BA05 /* colorsScreen.swift in Sources */,
 				046DA43E284D6BB80012BA05 /* GradientScreen.swift in Sources */,
+				0413F76B28555C1A0042DFA2 /* iconsScreen.swift in Sources */,
 				041C7C5E284C091000A04897 /* ContentView.swift in Sources */,
 				046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */,
 				04143F2F284CDB2600E52124 /* TextScreen.swift in Sources */,
 				041C7C5C284C091000A04897 /* iosappApp.swift in Sources */,
+				0413F76D285563850042DFA2 /* imageScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
