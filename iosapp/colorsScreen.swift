@@ -9,7 +9,7 @@ import SwiftUI
 
 struct colorsScreen: View {
     var body: some View {
-        let color = #colorLiteral(red: 0.9254902005, green: 0.2352941185, blue: 0.1019607857, alpha: 1)
+//        let color = #colorLiteral(red: 0.9254902005, green: 0.2352941185, blue: 0.1019607857, alpha: 1)
         RoundedRectangle(cornerRadius: 20)
             .fill(
 //                Color.primary
