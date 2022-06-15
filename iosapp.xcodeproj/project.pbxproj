@@ -19,6 +19,8 @@
 		046DA43E284D6BB80012BA05 /* GradientScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DA43D284D6BB80012BA05 /* GradientScreen.swift */; };
 		046DB9E528574618005F51E6 /* frameScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9E428574618005F51E6 /* frameScreen.swift */; };
 		046DB9E728574A16005F51E6 /* backgroundAndOverlayScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9E628574A16005F51E6 /* backgroundAndOverlayScreen.swift */; };
+		046DB9E928588779005F51E6 /* stacksScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9E828588779005F51E6 /* stacksScreen.swift */; };
+		046DB9EB2859D388005F51E6 /* PaddingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9EA2859D388005F51E6 /* PaddingScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +37,8 @@
 		046DA43D284D6BB80012BA05 /* GradientScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientScreen.swift; sourceTree = "<group>"; };
 		046DB9E428574618005F51E6 /* frameScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = frameScreen.swift; sourceTree = "<group>"; };
 		046DB9E628574A16005F51E6 /* backgroundAndOverlayScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundAndOverlayScreen.swift; sourceTree = "<group>"; };
+		046DB9E828588779005F51E6 /* stacksScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stacksScreen.swift; sourceTree = "<group>"; };
+		046DB9EA2859D388005F51E6 /* PaddingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				041C7C5B284C091000A04897 /* iosappApp.swift */,
+				046DB9EA2859D388005F51E6 /* PaddingScreen.swift */,
 				041C7C5D284C091000A04897 /* ContentView.swift */,
 				04143F2E284CDB2600E52124 /* TextScreen.swift */,
 				046DA439284D399C0012BA05 /* shapesScreen.swift */,
@@ -77,6 +82,7 @@
 				0413F76C285563850042DFA2 /* imageScreen.swift */,
 				046DB9E428574618005F51E6 /* frameScreen.swift */,
 				046DB9E628574A16005F51E6 /* backgroundAndOverlayScreen.swift */,
+				046DB9E828588779005F51E6 /* stacksScreen.swift */,
 				041C7C5F284C091200A04897 /* Assets.xcassets */,
 				041C7C61284C091200A04897 /* Preview Content */,
 			);
@@ -162,9 +168,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				046DA43C284D470D0012BA05 /* colorsScreen.swift in Sources */,
+				046DB9EB2859D388005F51E6 /* PaddingScreen.swift in Sources */,
 				046DA43E284D6BB80012BA05 /* GradientScreen.swift in Sources */,
 				046DB9E728574A16005F51E6 /* backgroundAndOverlayScreen.swift in Sources */,
 				0413F76B28555C1A0042DFA2 /* iconsScreen.swift in Sources */,
+				046DB9E928588779005F51E6 /* stacksScreen.swift in Sources */,
 				046DB9E528574618005F51E6 /* frameScreen.swift in Sources */,
 				041C7C5E284C091000A04897 /* ContentView.swift in Sources */,
 				046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */,
