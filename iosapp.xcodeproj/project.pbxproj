@@ -22,6 +22,7 @@
 		046DB9E928588779005F51E6 /* stacksScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9E828588779005F51E6 /* stacksScreen.swift */; };
 		046DB9EB2859D388005F51E6 /* PaddingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9EA2859D388005F51E6 /* PaddingScreen.swift */; };
 		046DB9ED2859DB16005F51E6 /* SpacerScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9EC2859DB16005F51E6 /* SpacerScreen.swift */; };
+		046DB9EF2859E35D005F51E6 /* InitializerScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9EE2859E35D005F51E6 /* InitializerScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		046DB9E828588779005F51E6 /* stacksScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stacksScreen.swift; sourceTree = "<group>"; };
 		046DB9EA2859D388005F51E6 /* PaddingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingScreen.swift; sourceTree = "<group>"; };
 		046DB9EC2859DB16005F51E6 /* SpacerScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerScreen.swift; sourceTree = "<group>"; };
+		046DB9EE2859E35D005F51E6 /* InitializerScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				046DB9E828588779005F51E6 /* stacksScreen.swift */,
 				046DB9EA2859D388005F51E6 /* PaddingScreen.swift */,
 				046DB9EC2859DB16005F51E6 /* SpacerScreen.swift */,
+				046DB9EE2859E35D005F51E6 /* InitializerScreen.swift */,
 				041C7C5F284C091200A04897 /* Assets.xcassets */,
 				041C7C61284C091200A04897 /* Preview Content */,
 			);
@@ -182,6 +185,7 @@
 				046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */,
 				04143F2F284CDB2600E52124 /* TextScreen.swift in Sources */,
 				041C7C5C284C091000A04897 /* iosappApp.swift in Sources */,
+				046DB9EF2859E35D005F51E6 /* InitializerScreen.swift in Sources */,
 				0413F76D285563850042DFA2 /* imageScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
