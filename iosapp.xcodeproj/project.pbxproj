@@ -14,6 +14,7 @@
 		041C7C5E284C091000A04897 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041C7C5D284C091000A04897 /* ContentView.swift */; };
 		041C7C60284C091200A04897 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041C7C5F284C091200A04897 /* Assets.xcassets */; };
 		041C7C63284C091200A04897 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041C7C62284C091200A04897 /* Preview Assets.xcassets */; };
+		0431B8BB2867BB1000B15ADF /* lazyVGridScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431B8BA2867BB1000B15ADF /* lazyVGridScreen.swift */; };
 		046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DA439284D399C0012BA05 /* shapesScreen.swift */; };
 		046DA43C284D470D0012BA05 /* colorsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DA43B284D470D0012BA05 /* colorsScreen.swift */; };
 		046DA43E284D6BB80012BA05 /* GradientScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DA43D284D6BB80012BA05 /* GradientScreen.swift */; };
@@ -36,6 +37,7 @@
 		041C7C5D284C091000A04897 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		041C7C5F284C091200A04897 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		041C7C62284C091200A04897 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0431B8BA2867BB1000B15ADF /* lazyVGridScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lazyVGridScreen.swift; sourceTree = "<group>"; };
 		046DA439284D399C0012BA05 /* shapesScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shapesScreen.swift; sourceTree = "<group>"; };
 		046DA43B284D470D0012BA05 /* colorsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = colorsScreen.swift; sourceTree = "<group>"; };
 		046DA43D284D6BB80012BA05 /* GradientScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientScreen.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				046DB9EE2859E35D005F51E6 /* InitializerScreen.swift */,
 				04DF5195286179C10057B313 /* ForEachScreen.swift */,
 				04DF519728617E0C0057B313 /* ScrollViewScreen.swift */,
+				0431B8BA2867BB1000B15ADF /* lazyVGridScreen.swift */,
 				041C7C5F284C091200A04897 /* Assets.xcassets */,
 				041C7C61284C091200A04897 /* Preview Content */,
 			);
@@ -191,6 +194,7 @@
 				041C7C5E284C091000A04897 /* ContentView.swift in Sources */,
 				046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */,
 				04DF519828617E0C0057B313 /* ScrollViewScreen.swift in Sources */,
+				0431B8BB2867BB1000B15ADF /* lazyVGridScreen.swift in Sources */,
 				04143F2F284CDB2600E52124 /* TextScreen.swift in Sources */,
 				041C7C5C284C091000A04897 /* iosappApp.swift in Sources */,
 				046DB9EF2859E35D005F51E6 /* InitializerScreen.swift in Sources */,
