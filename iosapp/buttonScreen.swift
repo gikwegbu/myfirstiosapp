@@ -71,5 +71,6 @@ struct buttonScreen: View {
 struct buttonScreen_Previews: PreviewProvider {
     static var previews: some View {
         buttonScreen()
+            .previewInterfaceOrientation(.portrait)
     }
 }

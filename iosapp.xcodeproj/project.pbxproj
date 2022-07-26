@@ -10,6 +10,7 @@
 		0413F76B28555C1A0042DFA2 /* iconsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0413F76A28555C1A0042DFA2 /* iconsScreen.swift */; };
 		0413F76D285563850042DFA2 /* imageScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0413F76C285563850042DFA2 /* imageScreen.swift */; };
 		04143F2F284CDB2600E52124 /* TextScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04143F2E284CDB2600E52124 /* TextScreen.swift */; };
+		0415C9612890400000E8A2F6 /* ExtractedSubviewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0415C9602890400000E8A2F6 /* ExtractedSubviewScreen.swift */; };
 		041C7C5C284C091000A04897 /* iosappApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041C7C5B284C091000A04897 /* iosappApp.swift */; };
 		041C7C5E284C091000A04897 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041C7C5D284C091000A04897 /* ContentView.swift */; };
 		041C7C60284C091200A04897 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041C7C5F284C091200A04897 /* Assets.xcassets */; };
@@ -17,6 +18,8 @@
 		0431B8BB2867BB1000B15ADF /* lazyVGridScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431B8BA2867BB1000B15ADF /* lazyVGridScreen.swift */; };
 		0431B8BD2867C50700B15ADF /* safeAreaScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431B8BC2867C50700B15ADF /* safeAreaScreen.swift */; };
 		0431B8BF2867DE4800B15ADF /* buttonScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431B8BE2867DE4800B15ADF /* buttonScreen.swift */; };
+		04639E8A287DB8EF009447E9 /* StateScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04639E89287DB8EF009447E9 /* StateScreen.swift */; };
+		04639E8C287DBCE6009447E9 /* ExtractedFunctionsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04639E8B287DBCE6009447E9 /* ExtractedFunctionsScreen.swift */; };
 		046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DA439284D399C0012BA05 /* shapesScreen.swift */; };
 		046DA43C284D470D0012BA05 /* colorsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DA43B284D470D0012BA05 /* colorsScreen.swift */; };
 		046DA43E284D6BB80012BA05 /* GradientScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DA43D284D6BB80012BA05 /* GradientScreen.swift */; };
@@ -34,6 +37,7 @@
 		0413F76A28555C1A0042DFA2 /* iconsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iconsScreen.swift; sourceTree = "<group>"; };
 		0413F76C285563850042DFA2 /* imageScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageScreen.swift; sourceTree = "<group>"; };
 		04143F2E284CDB2600E52124 /* TextScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextScreen.swift; sourceTree = "<group>"; };
+		0415C9602890400000E8A2F6 /* ExtractedSubviewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedSubviewScreen.swift; sourceTree = "<group>"; };
 		041C7C58284C091000A04897 /* MrBrowny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MrBrowny.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		041C7C5B284C091000A04897 /* iosappApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosappApp.swift; sourceTree = "<group>"; };
 		041C7C5D284C091000A04897 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -42,6 +46,8 @@
 		0431B8BA2867BB1000B15ADF /* lazyVGridScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lazyVGridScreen.swift; sourceTree = "<group>"; };
 		0431B8BC2867C50700B15ADF /* safeAreaScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = safeAreaScreen.swift; sourceTree = "<group>"; };
 		0431B8BE2867DE4800B15ADF /* buttonScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttonScreen.swift; sourceTree = "<group>"; };
+		04639E89287DB8EF009447E9 /* StateScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateScreen.swift; sourceTree = "<group>"; };
+		04639E8B287DBCE6009447E9 /* ExtractedFunctionsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsScreen.swift; sourceTree = "<group>"; };
 		046DA439284D399C0012BA05 /* shapesScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shapesScreen.swift; sourceTree = "<group>"; };
 		046DA43B284D470D0012BA05 /* colorsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = colorsScreen.swift; sourceTree = "<group>"; };
 		046DA43D284D6BB80012BA05 /* GradientScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientScreen.swift; sourceTree = "<group>"; };
@@ -104,6 +110,9 @@
 				0431B8BA2867BB1000B15ADF /* lazyVGridScreen.swift */,
 				0431B8BC2867C50700B15ADF /* safeAreaScreen.swift */,
 				0431B8BE2867DE4800B15ADF /* buttonScreen.swift */,
+				04639E89287DB8EF009447E9 /* StateScreen.swift */,
+				04639E8B287DBCE6009447E9 /* ExtractedFunctionsScreen.swift */,
+				0415C9602890400000E8A2F6 /* ExtractedSubviewScreen.swift */,
 				041C7C5F284C091200A04897 /* Assets.xcassets */,
 				041C7C61284C091200A04897 /* Preview Content */,
 			);
@@ -189,6 +198,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				0431B8BF2867DE4800B15ADF /* buttonScreen.swift in Sources */,
+				04639E8C287DBCE6009447E9 /* ExtractedFunctionsScreen.swift in Sources */,
+				04639E8A287DB8EF009447E9 /* StateScreen.swift in Sources */,
 				046DA43C284D470D0012BA05 /* colorsScreen.swift in Sources */,
 				046DB9EB2859D388005F51E6 /* PaddingScreen.swift in Sources */,
 				046DA43E284D6BB80012BA05 /* GradientScreen.swift in Sources */,
@@ -202,6 +213,7 @@
 				041C7C5E284C091000A04897 /* ContentView.swift in Sources */,
 				046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */,
 				04DF519828617E0C0057B313 /* ScrollViewScreen.swift in Sources */,
+				0415C9612890400000E8A2F6 /* ExtractedSubviewScreen.swift in Sources */,
 				0431B8BB2867BB1000B15ADF /* lazyVGridScreen.swift in Sources */,
 				04143F2F284CDB2600E52124 /* TextScreen.swift in Sources */,
 				041C7C5C284C091000A04897 /* iosappApp.swift in Sources */,
