@@ -11,6 +11,11 @@
 		0413F76D285563850042DFA2 /* imageScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0413F76C285563850042DFA2 /* imageScreen.swift */; };
 		04143F2F284CDB2600E52124 /* TextScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04143F2E284CDB2600E52124 /* TextScreen.swift */; };
 		0415C9612890400000E8A2F6 /* ExtractedSubviewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0415C9602890400000E8A2F6 /* ExtractedSubviewScreen.swift */; };
+		0415C963289044C600E8A2F6 /* BindingPropertyWrapperScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0415C962289044C600E8A2F6 /* BindingPropertyWrapperScreen.swift */; };
+		0415C965289125AA00E8A2F6 /* ConditionalStatementsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0415C964289125AA00E8A2F6 /* ConditionalStatementsScreen.swift */; };
+		0415C96728913ADF00E8A2F6 /* TernaryOperatorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0415C96628913ADF00E8A2F6 /* TernaryOperatorScreen.swift */; };
+		0415C969289155F700E8A2F6 /* AnimationScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0415C968289155F700E8A2F6 /* AnimationScreen.swift */; };
+		0415C96B28915D1600E8A2F6 /* TransitionScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0415C96A28915D1600E8A2F6 /* TransitionScreen.swift */; };
 		041C7C5C284C091000A04897 /* iosappApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041C7C5B284C091000A04897 /* iosappApp.swift */; };
 		041C7C5E284C091000A04897 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041C7C5D284C091000A04897 /* ContentView.swift */; };
 		041C7C60284C091200A04897 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 041C7C5F284C091200A04897 /* Assets.xcassets */; };
@@ -38,6 +43,11 @@
 		0413F76C285563850042DFA2 /* imageScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageScreen.swift; sourceTree = "<group>"; };
 		04143F2E284CDB2600E52124 /* TextScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextScreen.swift; sourceTree = "<group>"; };
 		0415C9602890400000E8A2F6 /* ExtractedSubviewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedSubviewScreen.swift; sourceTree = "<group>"; };
+		0415C962289044C600E8A2F6 /* BindingPropertyWrapperScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPropertyWrapperScreen.swift; sourceTree = "<group>"; };
+		0415C964289125AA00E8A2F6 /* ConditionalStatementsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalStatementsScreen.swift; sourceTree = "<group>"; };
+		0415C96628913ADF00E8A2F6 /* TernaryOperatorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperatorScreen.swift; sourceTree = "<group>"; };
+		0415C968289155F700E8A2F6 /* AnimationScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationScreen.swift; sourceTree = "<group>"; };
+		0415C96A28915D1600E8A2F6 /* TransitionScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionScreen.swift; sourceTree = "<group>"; };
 		041C7C58284C091000A04897 /* MrBrowny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MrBrowny.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		041C7C5B284C091000A04897 /* iosappApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iosappApp.swift; sourceTree = "<group>"; };
 		041C7C5D284C091000A04897 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +123,11 @@
 				04639E89287DB8EF009447E9 /* StateScreen.swift */,
 				04639E8B287DBCE6009447E9 /* ExtractedFunctionsScreen.swift */,
 				0415C9602890400000E8A2F6 /* ExtractedSubviewScreen.swift */,
+				0415C962289044C600E8A2F6 /* BindingPropertyWrapperScreen.swift */,
+				0415C964289125AA00E8A2F6 /* ConditionalStatementsScreen.swift */,
+				0415C96628913ADF00E8A2F6 /* TernaryOperatorScreen.swift */,
+				0415C968289155F700E8A2F6 /* AnimationScreen.swift */,
+				0415C96A28915D1600E8A2F6 /* TransitionScreen.swift */,
 				041C7C5F284C091200A04897 /* Assets.xcassets */,
 				041C7C61284C091200A04897 /* Preview Content */,
 			);
@@ -197,12 +212,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0415C965289125AA00E8A2F6 /* ConditionalStatementsScreen.swift in Sources */,
 				0431B8BF2867DE4800B15ADF /* buttonScreen.swift in Sources */,
 				04639E8C287DBCE6009447E9 /* ExtractedFunctionsScreen.swift in Sources */,
 				04639E8A287DB8EF009447E9 /* StateScreen.swift in Sources */,
 				046DA43C284D470D0012BA05 /* colorsScreen.swift in Sources */,
 				046DB9EB2859D388005F51E6 /* PaddingScreen.swift in Sources */,
 				046DA43E284D6BB80012BA05 /* GradientScreen.swift in Sources */,
+				0415C96728913ADF00E8A2F6 /* TernaryOperatorScreen.swift in Sources */,
 				0431B8BD2867C50700B15ADF /* safeAreaScreen.swift in Sources */,
 				046DB9E728574A16005F51E6 /* backgroundAndOverlayScreen.swift in Sources */,
 				0413F76B28555C1A0042DFA2 /* iconsScreen.swift in Sources */,
@@ -213,7 +230,10 @@
 				041C7C5E284C091000A04897 /* ContentView.swift in Sources */,
 				046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */,
 				04DF519828617E0C0057B313 /* ScrollViewScreen.swift in Sources */,
+				0415C969289155F700E8A2F6 /* AnimationScreen.swift in Sources */,
+				0415C96B28915D1600E8A2F6 /* TransitionScreen.swift in Sources */,
 				0415C9612890400000E8A2F6 /* ExtractedSubviewScreen.swift in Sources */,
+				0415C963289044C600E8A2F6 /* BindingPropertyWrapperScreen.swift in Sources */,
 				0431B8BB2867BB1000B15ADF /* lazyVGridScreen.swift in Sources */,
 				04143F2F284CDB2600E52124 /* TextScreen.swift in Sources */,
 				041C7C5C284C091000A04897 /* iosappApp.swift in Sources */,
