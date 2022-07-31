@@ -35,6 +35,7 @@
 		046DB9ED2859DB16005F51E6 /* SpacerScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9EC2859DB16005F51E6 /* SpacerScreen.swift */; };
 		046DB9EF2859E35D005F51E6 /* InitializerScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DB9EE2859E35D005F51E6 /* InitializerScreen.swift */; };
 		04B3C83F2895023200C1D209 /* SheetScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3C83E2895023200C1D209 /* SheetScreen.swift */; };
+		04B3C84128963D5200C1D209 /* PopoverScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3C84028963D5200C1D209 /* PopoverScreen.swift */; };
 		04DF5196286179C20057B313 /* ForEachScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF5195286179C10057B313 /* ForEachScreen.swift */; };
 		04DF519828617E0C0057B313 /* ScrollViewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF519728617E0C0057B313 /* ScrollViewScreen.swift */; };
 /* End PBXBuildFile section */
@@ -69,6 +70,7 @@
 		046DB9EC2859DB16005F51E6 /* SpacerScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerScreen.swift; sourceTree = "<group>"; };
 		046DB9EE2859E35D005F51E6 /* InitializerScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerScreen.swift; sourceTree = "<group>"; };
 		04B3C83E2895023200C1D209 /* SheetScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetScreen.swift; sourceTree = "<group>"; };
+		04B3C84028963D5200C1D209 /* PopoverScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverScreen.swift; sourceTree = "<group>"; };
 		04DF5195286179C10057B313 /* ForEachScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachScreen.swift; sourceTree = "<group>"; };
 		04DF519728617E0C0057B313 /* ScrollViewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -131,6 +133,7 @@
 				0415C968289155F700E8A2F6 /* AnimationScreen.swift */,
 				0415C96A28915D1600E8A2F6 /* TransitionScreen.swift */,
 				04B3C83E2895023200C1D209 /* SheetScreen.swift */,
+				04B3C84028963D5200C1D209 /* PopoverScreen.swift */,
 				041C7C5F284C091200A04897 /* Assets.xcassets */,
 				041C7C61284C091200A04897 /* Preview Content */,
 			);
@@ -215,6 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B3C84128963D5200C1D209 /* PopoverScreen.swift in Sources */,
 				0415C965289125AA00E8A2F6 /* ConditionalStatementsScreen.swift in Sources */,
 				0431B8BF2867DE4800B15ADF /* buttonScreen.swift in Sources */,
 				04639E8C287DBCE6009447E9 /* ExtractedFunctionsScreen.swift in Sources */,
