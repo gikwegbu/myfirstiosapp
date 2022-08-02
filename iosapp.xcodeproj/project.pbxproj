@@ -37,6 +37,7 @@
 		04B3C83F2895023200C1D209 /* SheetScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3C83E2895023200C1D209 /* SheetScreen.swift */; };
 		04B3C84128963D5200C1D209 /* PopoverScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3C84028963D5200C1D209 /* PopoverScreen.swift */; };
 		04B3C8432896487C00C1D209 /* NavigationScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3C8422896487C00C1D209 /* NavigationScreen.swift */; };
+		04B3C8452898F18800C1D209 /* ListScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3C8442898F18800C1D209 /* ListScreen.swift */; };
 		04DF5196286179C20057B313 /* ForEachScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF5195286179C10057B313 /* ForEachScreen.swift */; };
 		04DF519828617E0C0057B313 /* ScrollViewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF519728617E0C0057B313 /* ScrollViewScreen.swift */; };
 /* End PBXBuildFile section */
@@ -73,6 +74,7 @@
 		04B3C83E2895023200C1D209 /* SheetScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetScreen.swift; sourceTree = "<group>"; };
 		04B3C84028963D5200C1D209 /* PopoverScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverScreen.swift; sourceTree = "<group>"; };
 		04B3C8422896487C00C1D209 /* NavigationScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationScreen.swift; sourceTree = "<group>"; };
+		04B3C8442898F18800C1D209 /* ListScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListScreen.swift; sourceTree = "<group>"; };
 		04DF5195286179C10057B313 /* ForEachScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachScreen.swift; sourceTree = "<group>"; };
 		04DF519728617E0C0057B313 /* ScrollViewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -137,6 +139,7 @@
 				04B3C83E2895023200C1D209 /* SheetScreen.swift */,
 				04B3C84028963D5200C1D209 /* PopoverScreen.swift */,
 				04B3C8422896487C00C1D209 /* NavigationScreen.swift */,
+				04B3C8442898F18800C1D209 /* ListScreen.swift */,
 				041C7C5F284C091200A04897 /* Assets.xcassets */,
 				041C7C61284C091200A04897 /* Preview Content */,
 			);
@@ -226,6 +229,7 @@
 				0431B8BF2867DE4800B15ADF /* buttonScreen.swift in Sources */,
 				04B3C8432896487C00C1D209 /* NavigationScreen.swift in Sources */,
 				04639E8C287DBCE6009447E9 /* ExtractedFunctionsScreen.swift in Sources */,
+				04B3C8452898F18800C1D209 /* ListScreen.swift in Sources */,
 				04639E8A287DB8EF009447E9 /* StateScreen.swift in Sources */,
 				046DA43C284D470D0012BA05 /* colorsScreen.swift in Sources */,
 				046DB9EB2859D388005F51E6 /* PaddingScreen.swift in Sources */,
