@@ -23,6 +23,7 @@ struct colorsScreen: View {
     }
 }
 
+
 struct colorsScreen_Previews: PreviewProvider {
     static var previews: some View {
         colorsScreen()

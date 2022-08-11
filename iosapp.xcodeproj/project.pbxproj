@@ -23,6 +23,14 @@
 		0431B8BB2867BB1000B15ADF /* lazyVGridScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431B8BA2867BB1000B15ADF /* lazyVGridScreen.swift */; };
 		0431B8BD2867C50700B15ADF /* safeAreaScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431B8BC2867C50700B15ADF /* safeAreaScreen.swift */; };
 		0431B8BF2867DE4800B15ADF /* buttonScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0431B8BE2867DE4800B15ADF /* buttonScreen.swift */; };
+		044BE97628A101E2000A8B55 /* ActionSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044BE97528A101E2000A8B55 /* ActionSheet.swift */; };
+		044BE97828A3E97F000A8B55 /* ContextMenuScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044BE97728A3E97F000A8B55 /* ContextMenuScreen.swift */; };
+		044BE97A28A3EDD9000A8B55 /* TextFieldScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044BE97928A3EDD9000A8B55 /* TextFieldScreen.swift */; };
+		044BE97C28A3F9A7000A8B55 /* TextEditorScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044BE97B28A3F9A7000A8B55 /* TextEditorScreen.swift */; };
+		044BE97E28A494B8000A8B55 /* ToggleScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044BE97D28A494B8000A8B55 /* ToggleScreen.swift */; };
+		044BE98028A4965F000A8B55 /* PickerScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044BE97F28A4965F000A8B55 /* PickerScreen.swift */; };
+		044BE98228A4A97F000A8B55 /* ColorPickerScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044BE98128A4A97F000A8B55 /* ColorPickerScreen.swift */; };
+		044BE98428A4B328000A8B55 /* DatePickerScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044BE98328A4B328000A8B55 /* DatePickerScreen.swift */; };
 		04639E8A287DB8EF009447E9 /* StateScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04639E89287DB8EF009447E9 /* StateScreen.swift */; };
 		04639E8C287DBCE6009447E9 /* ExtractedFunctionsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04639E8B287DBCE6009447E9 /* ExtractedFunctionsScreen.swift */; };
 		046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046DA439284D399C0012BA05 /* shapesScreen.swift */; };
@@ -38,6 +46,7 @@
 		04B3C84128963D5200C1D209 /* PopoverScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3C84028963D5200C1D209 /* PopoverScreen.swift */; };
 		04B3C8432896487C00C1D209 /* NavigationScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3C8422896487C00C1D209 /* NavigationScreen.swift */; };
 		04B3C8452898F18800C1D209 /* ListScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B3C8442898F18800C1D209 /* ListScreen.swift */; };
+		04B83563289C20CA0092B7C6 /* AlertScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B83562289C20CA0092B7C6 /* AlertScreen.swift */; };
 		04DF5196286179C20057B313 /* ForEachScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF5195286179C10057B313 /* ForEachScreen.swift */; };
 		04DF519828617E0C0057B313 /* ScrollViewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DF519728617E0C0057B313 /* ScrollViewScreen.swift */; };
 /* End PBXBuildFile section */
@@ -60,6 +69,14 @@
 		0431B8BA2867BB1000B15ADF /* lazyVGridScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lazyVGridScreen.swift; sourceTree = "<group>"; };
 		0431B8BC2867C50700B15ADF /* safeAreaScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = safeAreaScreen.swift; sourceTree = "<group>"; };
 		0431B8BE2867DE4800B15ADF /* buttonScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttonScreen.swift; sourceTree = "<group>"; };
+		044BE97528A101E2000A8B55 /* ActionSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheet.swift; sourceTree = "<group>"; };
+		044BE97728A3E97F000A8B55 /* ContextMenuScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuScreen.swift; sourceTree = "<group>"; };
+		044BE97928A3EDD9000A8B55 /* TextFieldScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldScreen.swift; sourceTree = "<group>"; };
+		044BE97B28A3F9A7000A8B55 /* TextEditorScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorScreen.swift; sourceTree = "<group>"; };
+		044BE97D28A494B8000A8B55 /* ToggleScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleScreen.swift; sourceTree = "<group>"; };
+		044BE97F28A4965F000A8B55 /* PickerScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerScreen.swift; sourceTree = "<group>"; };
+		044BE98128A4A97F000A8B55 /* ColorPickerScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerScreen.swift; sourceTree = "<group>"; };
+		044BE98328A4B328000A8B55 /* DatePickerScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerScreen.swift; sourceTree = "<group>"; };
 		04639E89287DB8EF009447E9 /* StateScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateScreen.swift; sourceTree = "<group>"; };
 		04639E8B287DBCE6009447E9 /* ExtractedFunctionsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsScreen.swift; sourceTree = "<group>"; };
 		046DA439284D399C0012BA05 /* shapesScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shapesScreen.swift; sourceTree = "<group>"; };
@@ -75,6 +92,7 @@
 		04B3C84028963D5200C1D209 /* PopoverScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverScreen.swift; sourceTree = "<group>"; };
 		04B3C8422896487C00C1D209 /* NavigationScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationScreen.swift; sourceTree = "<group>"; };
 		04B3C8442898F18800C1D209 /* ListScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListScreen.swift; sourceTree = "<group>"; };
+		04B83562289C20CA0092B7C6 /* AlertScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertScreen.swift; sourceTree = "<group>"; };
 		04DF5195286179C10057B313 /* ForEachScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachScreen.swift; sourceTree = "<group>"; };
 		04DF519728617E0C0057B313 /* ScrollViewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -140,6 +158,15 @@
 				04B3C84028963D5200C1D209 /* PopoverScreen.swift */,
 				04B3C8422896487C00C1D209 /* NavigationScreen.swift */,
 				04B3C8442898F18800C1D209 /* ListScreen.swift */,
+				04B83562289C20CA0092B7C6 /* AlertScreen.swift */,
+				044BE97528A101E2000A8B55 /* ActionSheet.swift */,
+				044BE97728A3E97F000A8B55 /* ContextMenuScreen.swift */,
+				044BE97928A3EDD9000A8B55 /* TextFieldScreen.swift */,
+				044BE97B28A3F9A7000A8B55 /* TextEditorScreen.swift */,
+				044BE97D28A494B8000A8B55 /* ToggleScreen.swift */,
+				044BE97F28A4965F000A8B55 /* PickerScreen.swift */,
+				044BE98128A4A97F000A8B55 /* ColorPickerScreen.swift */,
+				044BE98328A4B328000A8B55 /* DatePickerScreen.swift */,
 				041C7C5F284C091200A04897 /* Assets.xcassets */,
 				041C7C61284C091200A04897 /* Preview Content */,
 			);
@@ -224,20 +251,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				044BE98228A4A97F000A8B55 /* ColorPickerScreen.swift in Sources */,
 				04B3C84128963D5200C1D209 /* PopoverScreen.swift in Sources */,
 				0415C965289125AA00E8A2F6 /* ConditionalStatementsScreen.swift in Sources */,
 				0431B8BF2867DE4800B15ADF /* buttonScreen.swift in Sources */,
 				04B3C8432896487C00C1D209 /* NavigationScreen.swift in Sources */,
+				04B83563289C20CA0092B7C6 /* AlertScreen.swift in Sources */,
 				04639E8C287DBCE6009447E9 /* ExtractedFunctionsScreen.swift in Sources */,
 				04B3C8452898F18800C1D209 /* ListScreen.swift in Sources */,
 				04639E8A287DB8EF009447E9 /* StateScreen.swift in Sources */,
 				046DA43C284D470D0012BA05 /* colorsScreen.swift in Sources */,
+				044BE97A28A3EDD9000A8B55 /* TextFieldScreen.swift in Sources */,
 				046DB9EB2859D388005F51E6 /* PaddingScreen.swift in Sources */,
 				046DA43E284D6BB80012BA05 /* GradientScreen.swift in Sources */,
 				0415C96728913ADF00E8A2F6 /* TernaryOperatorScreen.swift in Sources */,
 				0431B8BD2867C50700B15ADF /* safeAreaScreen.swift in Sources */,
 				046DB9E728574A16005F51E6 /* backgroundAndOverlayScreen.swift in Sources */,
+				044BE98028A4965F000A8B55 /* PickerScreen.swift in Sources */,
 				0413F76B28555C1A0042DFA2 /* iconsScreen.swift in Sources */,
+				044BE97E28A494B8000A8B55 /* ToggleScreen.swift in Sources */,
 				046DB9E928588779005F51E6 /* stacksScreen.swift in Sources */,
 				046DB9E528574618005F51E6 /* frameScreen.swift in Sources */,
 				04DF5196286179C20057B313 /* ForEachScreen.swift in Sources */,
@@ -245,14 +277,18 @@
 				041C7C5E284C091000A04897 /* ContentView.swift in Sources */,
 				046DA43A284D399C0012BA05 /* shapesScreen.swift in Sources */,
 				04B3C83F2895023200C1D209 /* SheetScreen.swift in Sources */,
+				044BE97628A101E2000A8B55 /* ActionSheet.swift in Sources */,
 				04DF519828617E0C0057B313 /* ScrollViewScreen.swift in Sources */,
+				044BE97C28A3F9A7000A8B55 /* TextEditorScreen.swift in Sources */,
 				0415C969289155F700E8A2F6 /* AnimationScreen.swift in Sources */,
 				0415C96B28915D1600E8A2F6 /* TransitionScreen.swift in Sources */,
 				0415C9612890400000E8A2F6 /* ExtractedSubviewScreen.swift in Sources */,
 				0415C963289044C600E8A2F6 /* BindingPropertyWrapperScreen.swift in Sources */,
+				044BE97828A3E97F000A8B55 /* ContextMenuScreen.swift in Sources */,
 				0431B8BB2867BB1000B15ADF /* lazyVGridScreen.swift in Sources */,
 				04143F2F284CDB2600E52124 /* TextScreen.swift in Sources */,
 				041C7C5C284C091000A04897 /* iosappApp.swift in Sources */,
+				044BE98428A4B328000A8B55 /* DatePickerScreen.swift in Sources */,
 				046DB9EF2859E35D005F51E6 /* InitializerScreen.swift in Sources */,
 				0413F76D285563850042DFA2 /* imageScreen.swift in Sources */,
 			);
