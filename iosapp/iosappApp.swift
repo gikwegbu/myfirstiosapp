@@ -11,7 +11,11 @@ import SwiftUI
 struct iosappApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+//            AppStorageScreen()
+//            IntroViewScreen()
+//            FocusStateScreen()
+            OnSubmitLabel()
         }
     }
 }

@@ -69,7 +69,7 @@ struct PickerScreen: View {
 // NOTE::::
 // By default, the pickerStyle, looks like the context menu and all with the MenuPickerStyle(), a click reveals the values to be selected from. But changing the pickerStyle to:
             
-//  wheel, Inline, makes it scrollable within it's space, and has that wheel-like stepping sound.
+//  wheel, Inline, makes it scrollable within it's space, and has that gear-like stepping sound.
             
 //  Segmented, makes it look like a radio tuner for numbers, or a tab-like view, with great transition, when the data is sorta like words
             
